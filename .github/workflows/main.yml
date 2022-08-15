@@ -29,4 +29,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: bhogayatajay/jay01:abcd
+          tags: bhogayatajay/jay01
